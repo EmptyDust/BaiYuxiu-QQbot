@@ -1,2 +1,2 @@
 # BaiYuxiu-QQbot
-a qqbot just(may not?) for election
+a qqbot just for election(may not?)
