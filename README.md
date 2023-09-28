@@ -1,6 +1,9 @@
 # BaiYuxiu-QQbot
 ## robot info
 来自上海电力大学的班级qq群机器人\
+基于\
+nonebot:https://v1.nonebot.dev/api/\
+go-cqhttp:https://docs.go-cqhttp.org/guide/#go-cqhttp\
 欢迎大家加入\
 github:https://github.com/EmptyDust/BaiYuxiu-QQbot
 ## author info
